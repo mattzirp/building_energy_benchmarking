@@ -14,17 +14,17 @@ Address data was another area of concern for RegEx cleaning. Postal code data wa
 ### Conclusions
 In general, the main factor determining the energy consumption of a building in Calgary is its size and purpose. In the graph below we see the increasing linear relationship between size and energy usage:
 
-![Building Size vs Energy Use plot](viz\size_vs_energyuse_plot.png)
+![Building Size vs Energy Use plot](viz/size_vs_energyuse_plot.png)
 
 Additionally, we can see that the purpose effects energy consumption when inspecting this heatmap that compares property type to energy use/building size:
-![Property type vs Energy Use Intensity Heatmap](viz\type_eui_heatmap.png)
+![Property type vs Energy Use Intensity Heatmap](viz/type_eui_heatmap.png)
 
 In examining yearly trends we can see that Calgary owned buildings saw a strong downward trend with the onset on the pandemic. This is likely due to the closure of many shared public spaces that were deemed unsafe during that time. The usage Calgary-wide shows a slight recovery since the end of the pandemic, but have not fully recovered to pre-pandemic levels.
 
-![Usage by Year](viz\eui_year_plot.png)
+![Usage by Year](viz/eui_year_plot.png)
 
 We do not see much, if any relationship between the year of build and the energy consumption of a building. It is likely that most buildings of high age in the city have been retrofitted with modern equipment and standards, mitigating the effect of out of date building standards.
 
-![Usage by Build Year](viz\build_year_trends.png)
+![Usage by Build Year](viz/build_year_trends.png)
 
 If the city wants to reduce its usage, it is best to focus on building smaller buildings in the future. Where large buildings are necessary, or those with high energy consumption purposes are to be built, focus should be placed on energy reduction as these promise the most potential ROI.
